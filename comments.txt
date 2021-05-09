@@ -1,0 +1,3 @@
+A primeira funcao verifica o tamanho da string passada pelo usuario.
+
+A segunda funcao imprime o tamanho da string.
